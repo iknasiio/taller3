@@ -1,0 +1,7 @@
+La IA que fueron utilizadas para el desarrollo de este proyecto fue:
+-Chatgpt 
+Igualmente hice uso de gogle y videos de youtube para poer guiarme y tener una idea de lo aplicado.
+
+Cambios aplicados
+Se agrego la opcion de adjuntar imagenes a la hora de crear un post y fuera de esto hice cambio de 
+los nombres de los botones entre otras opciones, Igualmente elimine el boton volver que se encontraba al inicio.
